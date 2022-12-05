@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  },
+  "dependencies": {
+    "hyperline": "^1.2.0"
+  }
+}
